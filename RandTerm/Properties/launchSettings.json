@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RandTerm": {
+      "commandName": "Project",
+      "commandLineArgs": "-roll 4d5 -help roll"
+    }
+  }
+}

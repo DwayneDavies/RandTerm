@@ -1,0 +1,6 @@
+{
+	"roll" : "-roll [sides]d[times]
+
+Roll xdY. That is, roll X dice with Y sides. Has the format -roll xdY, where d can be any non-numeral character.
+Eg, '-roll 3d6' or '-roll 4n10'"
+}

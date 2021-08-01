@@ -1,0 +1,6 @@
+C:\Users\dwayn\source\repos\RandTerm\RandTerm\bin\Release\net5.0\publish\RandTerm.exe
+C:\Users\dwayn\source\repos\RandTerm\RandTerm\bin\Release\net5.0\publish\RandTerm.dll
+C:\Users\dwayn\source\repos\RandTerm\RandTerm\bin\Release\net5.0\publish\RandTerm.deps.json
+C:\Users\dwayn\source\repos\RandTerm\RandTerm\bin\Release\net5.0\publish\RandTerm.runtimeconfig.json
+C:\Users\dwayn\source\repos\RandTerm\RandTerm\bin\Release\net5.0\publish\RandTerm.pdb
+C:\Users\dwayn\source\repos\RandTerm\RandTerm\bin\Release\net5.0\publish\Newtonsoft.Json.dll

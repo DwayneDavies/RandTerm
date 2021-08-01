@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zTm4P8ttTRzRuz3JHLiBds3Repp9UA9HQjeWlOIQDCIdArQ7Kl7AGxzzuhmZgroWXVBjlaywHyz/8UU36cRGvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dwayn\\source\\repos\\RandTerm\\RandTerm\\RandTerm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dwayn\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

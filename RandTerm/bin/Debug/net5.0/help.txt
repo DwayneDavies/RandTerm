@@ -1,0 +1,9 @@
+Generates truly random numbers from random.org.
+
+Commands:
+
+/list		Rolls xdY. That is, roll X dice with Y sides. Has the format -list xdY, where d can be any non-numeral character. Lists all numbers rolled and their total.
+		Eg, '-list 3d6' or '-list 4n10
+
+/roll		Roll xdY. That is, roll X dice with Y sides. Has the format -roll xdY, where d can be any non-numeral character.
+		Eg, '-roll 3d6' or '-roll 4n10
