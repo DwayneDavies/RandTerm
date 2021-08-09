@@ -36,6 +36,8 @@ namespace RandTerm
 
                 if (Int32.Parse(mc[2]) < Int32.Parse(mc[1]))
                     minimum = mc[2];
+                else
+                    Console.WriteLine("Your minimum should be less than your maximum! Minimum has been set to 1.");
 
             }
             else if (mc.Length == 1)
@@ -59,7 +61,7 @@ namespace RandTerm
         public bool List(string input)
         {
             Tuple<string[], string, string, string> returnedObject = GetXInts(input);
-            string min = returnedObject.Item3;
+            string min = returnedObject.Item4;
             string[] nums = returnedObject.Item1;
             string sides = returnedObject.Item2;
             string times = returnedObject.Item3;

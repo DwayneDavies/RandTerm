@@ -6,6 +6,9 @@ C:\Users\dwayn\source\repos\RandTerm\RandTerm\bin\Debug\net5.0\RandTerm.dll
 C:\Users\dwayn\source\repos\RandTerm\RandTerm\bin\Debug\net5.0\ref\RandTerm.dll
 C:\Users\dwayn\source\repos\RandTerm\RandTerm\bin\Debug\net5.0\RandTerm.pdb
 C:\Users\dwayn\source\repos\RandTerm\RandTerm\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\dwayn\source\repos\RandTerm\RandTerm\bin\Debug\net5.0\ConsoleLibrary.dll
+C:\Users\dwayn\source\repos\RandTerm\RandTerm\bin\Debug\net5.0\ConsoleLibrary.pdb
+C:\Users\dwayn\source\repos\RandTerm\RandTerm\obj\Debug\net5.0\RandTerm.csproj.AssemblyReference.cache
 C:\Users\dwayn\source\repos\RandTerm\RandTerm\obj\Debug\net5.0\RandTerm.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\dwayn\source\repos\RandTerm\RandTerm\obj\Debug\net5.0\RandTerm.AssemblyInfoInputs.cache
 C:\Users\dwayn\source\repos\RandTerm\RandTerm\obj\Debug\net5.0\RandTerm.AssemblyInfo.cs
@@ -15,6 +18,3 @@ C:\Users\dwayn\source\repos\RandTerm\RandTerm\obj\Debug\net5.0\RandTerm.dll
 C:\Users\dwayn\source\repos\RandTerm\RandTerm\obj\Debug\net5.0\ref\RandTerm.dll
 C:\Users\dwayn\source\repos\RandTerm\RandTerm\obj\Debug\net5.0\RandTerm.pdb
 C:\Users\dwayn\source\repos\RandTerm\RandTerm\obj\Debug\net5.0\RandTerm.genruntimeconfig.cache
-C:\Users\dwayn\source\repos\RandTerm\RandTerm\obj\Debug\net5.0\RandTerm.csproj.AssemblyReference.cache
-C:\Users\dwayn\source\repos\RandTerm\RandTerm\bin\Debug\net5.0\ConsoleLibrary.dll
-C:\Users\dwayn\source\repos\RandTerm\RandTerm\bin\Debug\net5.0\ConsoleLibrary.pdb

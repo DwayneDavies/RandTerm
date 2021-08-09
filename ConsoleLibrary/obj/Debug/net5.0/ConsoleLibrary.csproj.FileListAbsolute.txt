@@ -2,7 +2,6 @@ C:\Users\dwayn\source\repos\RandTerm\ConsoleLibrary\bin\Debug\net5.0\ConsoleLibr
 C:\Users\dwayn\source\repos\RandTerm\ConsoleLibrary\bin\Debug\net5.0\ConsoleLibrary.dll
 C:\Users\dwayn\source\repos\RandTerm\ConsoleLibrary\bin\Debug\net5.0\ref\ConsoleLibrary.dll
 C:\Users\dwayn\source\repos\RandTerm\ConsoleLibrary\bin\Debug\net5.0\ConsoleLibrary.pdb
-C:\Users\dwayn\source\repos\RandTerm\ConsoleLibrary\obj\Debug\net5.0\ConsoleLibrary.csproj.AssemblyReference.cache
 C:\Users\dwayn\source\repos\RandTerm\ConsoleLibrary\obj\Debug\net5.0\ConsoleLibrary.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\dwayn\source\repos\RandTerm\ConsoleLibrary\obj\Debug\net5.0\ConsoleLibrary.AssemblyInfoInputs.cache
 C:\Users\dwayn\source\repos\RandTerm\ConsoleLibrary\obj\Debug\net5.0\ConsoleLibrary.AssemblyInfo.cs

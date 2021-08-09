@@ -98,7 +98,6 @@ namespace ConsoleLibrary
             get { return options[key]; }
         }
 
-
     }
 
 }
